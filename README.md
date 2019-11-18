@@ -7,7 +7,7 @@ Final report is located at write_up/final_report.pdf
 Here are a list of descriptions for each folder in this reposition.   
 1. write_up/   
 
-Project proposal write-up and final write-up, as well as powerpoint slides used for in-class presentations.
+Final write-up, as well as powerpoint slides used for in-class presentations.
 
 2. codes/   
 
