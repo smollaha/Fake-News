@@ -1,5 +1,3 @@
-# Fake-News
-
 # Project name: Fake News Detection   
 Final report is located at write_up/final_report.pdf   
 
